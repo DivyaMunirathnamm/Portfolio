@@ -1,7 +1,7 @@
 # Ex01 Portfolio
 ## Date:13-08-2025
 # Reg no: 212223040043
-Name: DIVYA M
+# Name: DIVYA M
 ## AIM
 To create a Portfolio using HTML and CSS.
 
