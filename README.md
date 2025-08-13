@@ -1,6 +1,7 @@
-<img width="1813" height="905" alt="Screenshot 2025-08-13 141708" src="https://github.com/user-attachments/assets/4018f74d-f1cc-494a-a2f5-aac5485f6b5c" /># Ex01 Portfolio
-## Date:
-
+# Ex01 Portfolio
+## Date:13-08-2025
+# Reg no: 212223040043
+Name: DIVYA M
 ## AIM
 To create a Portfolio using HTML and CSS.
 
@@ -298,7 +299,7 @@ footer {
 
 <img width="1813" height="905" alt="Screenshot 2025-08-13 141708" src="https://github.com/user-attachments/assets/dc56def4-5095-49f8-88aa-346b625b5ba9" />
 
-<img width="1808" height="901" alt="Screenshot 2025-08-13 141718" src="https://github.com/user-attachments/assets/1cbecaea-73a3-41be-bfdf-5e25151f0b25" />
+<img width="1808" height="666" alt="Screenshot 2025-08-13 141718" src="https://github.com/user-attachments/assets/925cc378-c9d4-4c7b-a266-1dea58e03de0" />
 
 
 
